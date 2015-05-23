@@ -37,6 +37,7 @@ HheadAOffset: 0
 HheadDescent: -483
 HheadDOffset: 0
 OS2Vendor: 'PfEd'
+Lookup: 1 8 0 "'smcp' Lowercase to Small Capitals"  {"'smcp' Lowercase to Small Capitals" ("sc" ) } ['smcp' ('DFLT' <'dflt' > 'cyrl' <'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'ESP ' 'GAG ' 'GAL ' 'ISM ' 'KAZ ' 'KRK ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 3 0 0 "'ssty' Script Style"  {"'ssty' Script Style-1"  } ['ssty' ('math' <'dflt' > ) ]
 Lookup: 6 0 0 "'ccmp' Contextual Chaining Substitution"  {"'ccmp' Contextual Chaining Substitution"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'GAG ' 'ISM ' 'KAZ ' 'KRK ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 1 0 0 "'locl' Localized Forms in Cyrillic - Serbian"  {"'locl' Localized Forms in Cyrillic - Serbian"  } ['locl' ('cyrl' <'MKD ' 'SRB ' > ) ]
@@ -1978,7 +1979,7 @@ NameList: AGL without afii
 AntiAlias: 1
 FitToEm: 1
 AnchorClass2: "above"  "'mark' Mark Positioning" "below"  "'mark' Mark Positioning" "above-mark"  "'mkmk' Mark to Mark" 
-BeginChars: 1114191 0
+BeginChars: 1114228 0
 StartChar: .notdef
 Encoding: 0 -1 0
 Width: 1229
@@ -10537,6 +10538,7 @@ SplineSet
  768 1092 768 1092 883.5 982.5 c 128,-1,40
  999 873 999 873 999 664 c 2,11,-1
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals" a.sc
 EndChar
 StartChar: b
 Encoding: 98 98 98
@@ -10649,6 +10651,7 @@ SplineSet
  420 775 420 775 420 584 c 2,33,-1
  420 479 l 2,21,22
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals" b.sc
 EndChar
 StartChar: c
 Encoding: 99 99 99
@@ -10735,6 +10738,7 @@ SplineSet
  879 194 879 194 905 319 c 1,26,-1
  1053 319 l 1,0,1
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals" c.sc
 EndChar
 StartChar: d
 Encoding: 100 100 100
@@ -10855,6 +10859,7 @@ SplineSet
  744 86 744 86 817.5 186.5 c 128,-1,33
  891 287 891 287 891 479 c 2,21,-1
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals" d.sc
 EndChar
 StartChar: e
 Encoding: 101 101 101
@@ -10968,6 +10973,7 @@ SplineSet
  333 803 333 803 317 618 c 1,27,-1
  893 618 l 1,21,22
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals" e.sc
 EndChar
 StartChar: f
 Encoding: 102 102 102
@@ -11114,6 +11120,7 @@ SplineSet
  815 1532 815 1532 881 1507 c 1,28,-1
  881 1305 l 1,0,-1
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals" f.sc
 EndChar
 StartChar: g
 Encoding: 103 103 103
@@ -11264,6 +11271,7 @@ SplineSet
  891 287 891 287 891 479 c 2,44,-1
  891 584 l 2,32,33
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals" g.sc
 AlternateSubs2: "'aalt' Access All Alternates" g.alt
 AlternateSubs2: "'salt' Stylistic Alternatives" g.alt
 EndChar
@@ -11411,6 +11419,7 @@ SplineSet
  594 0 l 1,29,-1
  84 0 l 1,0,-1
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals" h.sc
 EndChar
 StartChar: i
 Encoding: 105 105 105
@@ -11511,6 +11520,7 @@ SplineSet
  434 1063 l 1,21,-1
  434 106 l 1,12,-1
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals" i.sc
 Substitution2: "Single Substitution - Dotless Form" dotlessi
 EndChar
 StartChar: j
@@ -11649,6 +11659,7 @@ SplineSet
  250 -233 250 -233 250 -104 c 2,30,-1
  250 956 l 1,12,-1
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals" j.sc
 Substitution2: "Single Substitution - Dotless Form" dotlessj
 EndChar
 StartChar: k
@@ -12073,6 +12084,7 @@ SplineSet
  586 106 l 1,25,-1
  586 0 l 1,0,-1
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals" k.sc
 EndChar
 StartChar: l
 Encoding: 108 108 108
@@ -12155,6 +12167,7 @@ SplineSet
  420 1556 l 1,9,-1
  420 106 l 1,0,-1
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals" l.sc
 EndChar
 StartChar: m
 Encoding: 109 109 109
@@ -12373,6 +12386,7 @@ SplineSet
  867 1092 867 1092 950 1030.5 c 128,-1,48
  1033 969 1033 969 1061 856 c 1,0,1
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals" m.sc
 EndChar
 StartChar: n
 Encoding: 110 110 110
@@ -12519,6 +12533,7 @@ SplineSet
  594 0 l 1,29,-1
  84 0 l 1,0,-1
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals" n.sc
 EndChar
 StartChar: o
 Encoding: 111 111 111
@@ -12593,6 +12608,7 @@ SplineSet
  1130 278 1130 278 989.5 124.5 c 128,-1,23
  849 -29 849 -29 616 -29 c 0,12,13
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals" o.sc
 EndChar
 StartChar: p
 Encoding: 112 112 112
@@ -12721,6 +12737,7 @@ SplineSet
  236 -319 l 1,35,-1
  236 956 l 1,13,-1
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals" p.sc
 EndChar
 StartChar: q
 Encoding: 113 113 113
@@ -12847,6 +12864,7 @@ SplineSet
  891 287 891 287 891 479 c 2,35,-1
  891 584 l 2,23,24
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals" q.sc
 EndChar
 StartChar: r
 Encoding: 114 114 114
@@ -13025,6 +13043,7 @@ SplineSet
  825 1092 825 1092 874.5 1085 c 128,-1,24
  924 1078 924 1078 979 1065 c 1,0,-1
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals" r.sc
 EndChar
 StartChar: s
 Encoding: 115 115 115
@@ -13286,6 +13305,7 @@ SplineSet
  409 -29 409 -29 311 -7 c 128,-1,41
  213 15 213 15 115 59 c 1,0,-1
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals" s.sc
 EndChar
 StartChar: t
 Encoding: 116 116 116
@@ -13418,6 +13438,7 @@ SplineSet
  221 112 221 112 221 281 c 2,23,-1
  221 956 l 1,0,-1
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals" t.sc
 EndChar
 StartChar: u
 Encoding: 117 117 117
@@ -13559,6 +13580,7 @@ SplineSet
  725 956 l 1,25,-1
  725 1063 l 1,0,-1
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals" u.sc
 EndChar
 StartChar: v
 Encoding: 118 118 118
@@ -13772,6 +13794,7 @@ SplineSet
  641 0 l 1,14,-1
  506 0 l 1,0,-1
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals" v.sc
 EndChar
 StartChar: w
 Encoding: 119 119 119
@@ -14259,6 +14282,7 @@ SplineSet
  854 1063 l 1,20,-1
  983 1063 l 1,0,-1
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals" w.sc
 EndChar
 StartChar: x
 Encoding: 120 120 120
@@ -14727,6 +14751,7 @@ SplineSet
  373 956 l 1,27,-1
  596 649 l 1,0,-1
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals" x.sc
 EndChar
 StartChar: y
 Encoding: 121 121 121
@@ -15025,6 +15050,7 @@ SplineSet
  338 -348 338 -348 371.5 -317.5 c 128,-1,28
  405 -287 405 -287 442 -195 c 1,0,-1
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals" y.sc
 EndChar
 StartChar: z
 Encoding: 122 122 122
@@ -15153,6 +15179,7 @@ SplineSet
  1004 0 l 1,13,-1
  82 0 l 1,0,-1
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals" z.sc
 EndChar
 StartChar: braceleft
 Encoding: 123 123 123
@@ -20132,6 +20159,7 @@ SplineSet
  618 1021 618 1021 702.5 1103 c 128,-1,51
  787 1185 787 1185 940 1210 c 1,0,1
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals" germandbls.sc
 EndChar
 StartChar: agrave
 Encoding: 224 224 224
@@ -20425,6 +20453,7 @@ SplineSet
  1045 803 1045 803 1030 618 c 1,63,-1
  1606 618 l 1,57,58
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals" ae.sc
 EndChar
 StartChar: ccedilla
 Encoding: 231 231 231
@@ -20654,6 +20683,7 @@ SplineSet
  1047 1440 l 1,45,-1
  760 1307 l 1,15,16
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals" eth.sc
 EndChar
 StartChar: ntilde
 Encoding: 241 241 241
@@ -20956,6 +20986,7 @@ SplineSet
  1149 1094 l 1,43,-1
  1004 922 l 1,20,21
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals" oslash.sc
 EndChar
 StartChar: ugrave
 Encoding: 249 249 249
@@ -21432,6 +21463,7 @@ SplineSet
  744 86 744 86 817.5 186.5 c 128,-1,41
  891 287 891 287 891 479 c 2,29,-1
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals" dcroat.sc
 AlternateSubs2: "'aalt' Access All Alternates" dcroat.alt
 AlternateSubs2: "'salt' Stylistic Alternatives" dcroat.alt
 EndChar
@@ -22123,6 +22155,7 @@ SplineSet
  434 1063 l 1,9,-1
  434 106 l 1,0,-1
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals" i.sc
 EndChar
 StartChar: IJ
 Encoding: 306 306 306
@@ -22926,6 +22959,7 @@ SplineSet
  428 811 l 1,17,-1
  428 106 l 1,0,-1
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals" lslash.sc
 EndChar
 StartChar: Nacute
 Encoding: 323 323 323
@@ -23612,6 +23646,7 @@ SplineSet
  1146 803 1146 803 1130 618 c 1,51,-1
  1706 618 l 1,45,46
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals" oe.sc
 EndChar
 StartChar: Racute
 Encoding: 340 340 340
@@ -28522,6 +28557,7 @@ SplineSet
  250 -233 250 -233 250 -104 c 2,18,-1
  250 956 l 1,0,-1
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals" j.sc
 EndChar
 StartChar: uni0238
 Encoding: 568 568 568
@@ -37804,6 +37840,7 @@ SplineSet
  317 304 317 304 393 187 c 128,-1,44
  469 70 469 70 616 70 c 0,36,37
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals" delta.smcp
 EndChar
 StartChar: epsilon
 Encoding: 949 949 949
@@ -38038,6 +38075,7 @@ SplineSet
  102 1141.25 102 1141.25 242.5 1359.66 c 128,-1,29
  383 1578.07 383 1578.07 615 1578.07 c 24,18,19
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals" theta.smcp
 EndChar
 StartChar: iota
 Encoding: 953 953 953
@@ -38305,6 +38343,7 @@ SplineSet
  456 1396.11 456 1396.11 456 1074 c 0,40,41
  456 841.059 456 841.059 846 832 c 0,0,-1
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals" xi.smcp
 EndChar
 StartChar: omicron
 Encoding: 959 959 959
@@ -38510,6 +38549,7 @@ SplineSet
  102 786 102 786 242.5 939 c 0,27,28
  356.369 1063 356.369 1063 618 1063 c 0,14,15
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals" sigma.smcp
 EndChar
 StartChar: tau
 Encoding: 964 964 964
@@ -38607,6 +38647,7 @@ SplineSet
  810.032 780.292 810.032 780.292 809 526 c 8,54,55
  809 244 809 244 809 106 c 1,42,43
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals" phi.smcp
 EndChar
 StartChar: chi
 Encoding: 967 967 967
@@ -38738,6 +38779,7 @@ SplineSet
  1205.83 -7 1205.83 -7 1113 -7 c 1,57,58
  957.429 0 957.429 0 830 194 c 1,0,1
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals" omega.smcp
 EndChar
 StartChar: iotadieresis
 Encoding: 970 970 970
@@ -119236,41 +119278,6 @@ SplineSet
  488 814 l 1,0,-1
 EndSplineSet
 EndChar
-StartChar: q.smcp
-Encoding: 1114157 -1 1114157
-Width: 1233
-Flags: W
-AnchorPoint: "below" 616 -230 basechar 0
-AnchorPoint: "above" 616 1092 basechar 0
-LayerCount: 2
-Fore
-SplineSet
-616 70 m 0,0,1
- 764 70 764 70 839.5 187 c 128,-1,2
- 915 304 915 304 915 532 c 128,-1,3
- 915 760 915 760 839.5 876.5 c 128,-1,4
- 764 993 764 993 616 993 c 128,-1,5
- 468 993 468 993 392.5 876.5 c 128,-1,6
- 317 760 317 760 317 532 c 128,-1,7
- 317 304 317 304 393 187 c 128,-1,8
- 469 70 469 70 616 70 c 0,0,1
-616 -29 m 1,9,10
- 384 -29 384 -29 243 124.5 c 128,-1,11
- 102 278 102 278 102 532 c 128,-1,12
- 102 786 102 786 242.5 939 c 128,-1,13
- 383 1092 383 1092 616 1092 c 128,-1,14
- 849 1092 849 1092 989.5 939 c 128,-1,15
- 1130 786 1130 786 1130 532 c 128,-1,16
- 1130 278 1130 278 990 124 c 24,17,18
- 894 19 894 19 754 -14 c 1,19,20
- 808 -80 808 -80 885 -111.5 c 128,-1,21
- 962 -143 962 -143 1071 -143 c 2,22,-1
- 1102 -143 l 1,23,-1
- 1102 -298 l 1,24,25
- 933 -290 933 -290 812.5 -230.5 c 128,-1,26
- 692 -171 692 -171 616 -29 c 1,9,10
-EndSplineSet
-EndChar
 StartChar: delta.smcp
 Encoding: 1114158 -1 1114158
 Width: 1157
@@ -119648,47 +119655,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 11800 11800 N 1 0 0 1 0 373 3
-EndChar
-StartChar: germandbls.smcp
-Encoding: 1114167 -1 1114167
-Width: 1319
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-1050 295 m 0,0,1
- 1050 532 1050 532 801 532 c 2,2,-1
- 735 532 l 1,3,-1
- 735 638 l 1,4,-1
- 970 956 l 1,5,-1
- 718 956 l 2,6,7
- 583 956 583 956 505.5 887 c 128,-1,8
- 428 818 428 818 428 601 c 2,9,-1
- 428 106 l 1,10,-1
- 602 106 l 1,11,-1
- 602 0 l 1,12,-1
- 67 0 l 1,13,-1
- 67 106 l 1,14,-1
- 244 106 l 1,15,-1
- 244 628 l 2,16,17
- 244 854 244 854 344 958.5 c 128,-1,18
- 444 1063 444 1063 692 1063 c 2,19,-1
- 1152 1063 l 1,20,-1
- 1152 956 l 1,21,-1
- 915 637 l 1,22,23
- 1057 626 1057 626 1161 546.5 c 128,-1,24
- 1265 467 1265 467 1265 295 c 0,25,26
- 1265 137 1265 137 1172 58.5 c 128,-1,27
- 1079 -20 1079 -20 894 -20 c 0,28,29
- 832 -20 832 -20 760.5 2 c 128,-1,30
- 689 24 689 24 632 59 c 1,31,-1
- 632 251 l 1,32,-1
- 738 251 l 1,33,34
- 744 137 744 137 781 108 c 128,-1,35
- 818 79 818 79 893 79 c 0,36,37
- 964 79 964 79 1007 136.5 c 128,-1,38
- 1050 194 1050 194 1050 295 c 0,0,1
-EndSplineSet
 EndChar
 StartChar: Uring.ringless
 Encoding: 1114168 -1 1114168
@@ -120365,6 +120331,388 @@ Refer: 1114184 -1 N 1 0 0 1 600 0 2
 Refer: 1114184 -1 N 1 0 0 1 300 0 2
 Refer: 1114184 -1 N 1 0 0 1 900 0 2
 Refer: 1114184 -1 N 1 0 0 1 0 0 2
+EndChar
+StartChar: a.sc
+Encoding: 1114191 -1 1114191
+Width: 1157
+Flags: W
+AnchorPoint: "above" 578 1092 basechar 0
+AnchorPoint: "below" 578 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 7424 7424 N 1 0 0 1 0 0 3
+EndChar
+StartChar: b.sc
+Encoding: 1114192 -1 1114192
+Width: 1153
+Flags: W
+LayerCount: 2
+Fore
+Refer: 665 665 N 1 0 0 1 0 0 2
+EndChar
+StartChar: c.sc
+Encoding: 1114193 -1 1114193
+Width: 1147
+Flags: W
+AnchorPoint: "above" 616 1092 basechar 0
+AnchorPoint: "below" 616 10 basechar 0
+LayerCount: 2
+Fore
+Refer: 7428 7428 N 1 0 0 1 0 0 3
+EndChar
+StartChar: d.sc
+Encoding: 1114194 -1 1114194
+Width: 1199
+Flags: W
+AnchorPoint: "above" 560 1092 basechar 0
+AnchorPoint: "below" 560 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 7429 7429 N 1 0 0 1 0 0 3
+EndChar
+StartChar: e.sc
+Encoding: 1114195 -1 1114195
+Width: 1133
+Flags: W
+AnchorPoint: "above" 550 1092 basechar 0
+AnchorPoint: "below" 550 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 7431 7431 N 1 0 0 1 0 0 3
+EndChar
+StartChar: f.sc
+Encoding: 1114196 -1 1114196
+Width: 1053
+Flags: W
+AnchorPoint: "above" 572 1043 basechar 0
+AnchorPoint: "below" 572 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 42800 42800 N 1 0 0 1 0 0 3
+EndChar
+StartChar: g.sc
+Encoding: 1114197 -1 1114197
+Width: 1187
+Flags: W
+AnchorPoint: "below" 616 10 basechar 0
+AnchorPoint: "above" 616 1092 basechar 0
+LayerCount: 2
+Fore
+Refer: 610 610 N 1 0 0 1 0 0 3
+EndChar
+StartChar: h.sc
+Encoding: 1114198 -1 1114198
+Width: 1365
+Flags: W
+LayerCount: 2
+Fore
+Refer: 668 668 N 1 0 0 1 0 0 3
+EndChar
+StartChar: i.sc
+Encoding: 1114199 -1 1114199
+Width: 655
+Flags: W
+AnchorPoint: "below" 342 0 basechar 0
+AnchorPoint: "above" 342 1092 basechar 0
+LayerCount: 2
+Fore
+Refer: 618 618 N 1 0 0 1 0 0 3
+EndChar
+StartChar: j.sc
+Encoding: 1114200 -1 1114200
+Width: 1021
+Flags: W
+AnchorPoint: "above" 635 1092 basechar 0
+AnchorPoint: "below" 387 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 7434 7434 N 1 0 0 1 0 0 2
+EndChar
+StartChar: k.sc
+Encoding: 1114201 -1 1114201
+Width: 1280
+Flags: W
+AnchorPoint: "below" 648 0 basechar 0
+AnchorPoint: "above" 648 1092 basechar 0
+LayerCount: 2
+Fore
+Refer: 7435 7435 N 1 0 0 1 0 0 3
+EndChar
+StartChar: l.sc
+Encoding: 1114202 -1 1114202
+Width: 1112
+Flags: W
+AnchorPoint: "below" 575 0 basechar 0
+AnchorPoint: "above" 366 1092 basechar 0
+LayerCount: 2
+Fore
+Refer: 671 671 N 1 0 0 1 0 0 3
+EndChar
+StartChar: m.sc
+Encoding: 1114203 -1 1114203
+Width: 1593
+Flags: W
+AnchorPoint: "above" 798 1092 basechar 0
+AnchorPoint: "below" 798 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 7437 7437 N 1 0 0 1 0 0 3
+EndChar
+StartChar: n.sc
+Encoding: 1114204 -1 1114204
+Width: 1323
+Flags: W
+AnchorPoint: "below" 673 0 basechar 0
+AnchorPoint: "above" 673 1092 basechar 0
+LayerCount: 2
+Fore
+Refer: 628 628 N 1 0 0 1 0 0 3
+EndChar
+StartChar: o.sc
+Encoding: 1114205 -1 1114205
+Width: 1233
+Flags: W
+AnchorPoint: "above" 616 1092 basechar 0
+AnchorPoint: "below" 616 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 7439 7439 N 1 0 0 1 0 0 3
+EndChar
+StartChar: p.sc
+Encoding: 1114206 -1 1114206
+Width: 1133
+Flags: W
+AnchorPoint: "below" 377 0 basechar 0
+AnchorPoint: "above" 580 1092 basechar 0
+LayerCount: 2
+Fore
+Refer: 7448 7448 N 1 0 0 1 0 0 2
+EndChar
+StartChar: q.sc
+Encoding: 1114207 -1 1114207
+Width: 1233
+Flags: W
+AnchorPoint: "below" 616 -230 basechar 0
+AnchorPoint: "above" 616 1092 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+616 70 m 0,0,1
+ 764 70 764 70 839.5 187 c 128,-1,2
+ 915 304 915 304 915 532 c 128,-1,3
+ 915 760 915 760 839.5 876.5 c 128,-1,4
+ 764 993 764 993 616 993 c 128,-1,5
+ 468 993 468 993 392.5 876.5 c 128,-1,6
+ 317 760 317 760 317 532 c 128,-1,7
+ 317 304 317 304 393 187 c 128,-1,8
+ 469 70 469 70 616 70 c 0,0,1
+616 -29 m 1,9,10
+ 384 -29 384 -29 243 124.5 c 128,-1,11
+ 102 278 102 278 102 532 c 128,-1,12
+ 102 786 102 786 242.5 939 c 128,-1,13
+ 383 1092 383 1092 616 1092 c 128,-1,14
+ 849 1092 849 1092 989.5 939 c 128,-1,15
+ 1130 786 1130 786 1130 532 c 128,-1,16
+ 1130 278 1130 278 990 124 c 24,17,18
+ 894 19 894 19 754 -14 c 1,19,20
+ 808 -80 808 -80 885 -111.5 c 128,-1,21
+ 962 -143 962 -143 1071 -143 c 2,22,-1
+ 1102 -143 l 1,23,-1
+ 1102 -298 l 1,24,25
+ 933 -290 933 -290 812.5 -230.5 c 128,-1,26
+ 692 -171 692 -171 616 -29 c 1,9,10
+EndSplineSet
+EndChar
+StartChar: r.sc
+Encoding: 1114208 -1 1114208
+Width: 1190
+Flags: W
+AnchorPoint: "above" 573 1092 basechar 0
+AnchorPoint: "below" 645 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 640 640 N 1 0 0 1 0 0 3
+EndChar
+StartChar: s.sc
+Encoding: 1114209 -1 1114209
+Width: 1051
+Flags: W
+AnchorPoint: "below" 526 0 basechar 0
+AnchorPoint: "above" 526 1092 basechar 0
+LayerCount: 2
+Fore
+Refer: 42801 42801 N 1 0 0 1 0 0 3
+EndChar
+StartChar: t.sc
+Encoding: 1114210 -1 1114210
+Width: 1133
+Flags: W
+AnchorPoint: "above" 569 1092 basechar 0
+AnchorPoint: "below" 569 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 7451 7451 N 1 0 0 1 0 0 3
+EndChar
+StartChar: u.sc
+Encoding: 1114211 -1 1114211
+Width: 1198
+Flags: W
+AnchorPoint: "above" 620 1092 basechar 0
+AnchorPoint: "below" 620 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 7452 7452 N 1 0 0 1 0 0 3
+EndChar
+StartChar: v.sc
+Encoding: 1114212 -1 1114212
+Width: 1157
+Flags: W
+AnchorPoint: "above" 578 1092 basechar 0
+AnchorPoint: "below" 578 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 7456 7456 N 1 0 0 1 0 0 3
+EndChar
+StartChar: w.sc
+Encoding: 1114213 -1 1114213
+Width: 1753
+Flags: W
+AnchorPoint: "below" 879 0 basechar 0
+AnchorPoint: "above" 879 1092 basechar 0
+LayerCount: 2
+Fore
+Refer: 7457 7457 N 1 0 0 1 0 0 3
+EndChar
+StartChar: x.sc
+Encoding: 1114214 -1 1114214
+Width: 1155
+Flags: W
+AnchorPoint: "above" 578 1092 basechar 0
+AnchorPoint: "below" 578 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 120 120 N 1 0 0 1 0 0 3
+EndChar
+StartChar: y.sc
+Encoding: 1114215 -1 1114215
+Width: 1342
+Flags: W
+AnchorPoint: "above" 685 1092 basechar 0
+AnchorPoint: "below" 685 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 655 655 N 1 0 0 1 0 0 3
+EndChar
+StartChar: z.sc
+Encoding: 1114216 -1 1114216
+Width: 1079
+Flags: W
+AnchorPoint: "below" 529 0 basechar 0
+AnchorPoint: "above" 529 1092 basechar 0
+LayerCount: 2
+Fore
+Refer: 7458 7458 N 1 0 0 1 0 0 3
+EndChar
+StartChar: germandbls.sc
+Encoding: 1114217 -1 1114217
+Width: 1319
+Flags: W
+AnchorPoint: "below" 685 0 basechar 0
+AnchorPoint: "above" 705 1092 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1050 295 m 0,0,1
+ 1050 532 1050 532 801 532 c 2,2,-1
+ 735 532 l 1,3,-1
+ 735 638 l 1,4,-1
+ 970 956 l 1,5,-1
+ 718 956 l 2,6,7
+ 583 956 583 956 505.5 887 c 128,-1,8
+ 428 818 428 818 428 601 c 2,9,-1
+ 428 106 l 1,10,-1
+ 602 106 l 1,11,-1
+ 602 0 l 1,12,-1
+ 67 0 l 1,13,-1
+ 67 106 l 1,14,-1
+ 244 106 l 1,15,-1
+ 244 628 l 2,16,17
+ 244 854 244 854 344 958.5 c 128,-1,18
+ 444 1063 444 1063 692 1063 c 2,19,-1
+ 1152 1063 l 1,20,-1
+ 1152 956 l 1,21,-1
+ 915 637 l 1,22,23
+ 1057 626 1057 626 1161 546.5 c 128,-1,24
+ 1265 467 1265 467 1265 295 c 0,25,26
+ 1265 137 1265 137 1172 58.5 c 128,-1,27
+ 1079 -20 1079 -20 894 -20 c 0,28,29
+ 832 -20 832 -20 760.5 2 c 128,-1,30
+ 689 24 689 24 632 59 c 1,31,-1
+ 632 251 l 1,32,-1
+ 738 251 l 1,33,34
+ 744 137 744 137 781 108 c 128,-1,35
+ 818 79 818 79 893 79 c 0,36,37
+ 964 79 964 79 1007 136.5 c 128,-1,38
+ 1050 194 1050 194 1050 295 c 0,0,1
+EndSplineSet
+EndChar
+StartChar: ae.sc
+Encoding: 1114218 -1 1114218
+Width: 1586
+Flags: W
+AnchorPoint: "above" 858 1092 basechar 0
+AnchorPoint: "below" 778 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 7425 7425 N 1 0 0 1 0 0 3
+EndChar
+StartChar: eth.sc
+Encoding: 1114219 -1 1114219
+Width: 1199
+Flags: W
+AnchorPoint: "above" 560 1092 basechar 0
+AnchorPoint: "below" 560 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 7430 7430 N 1 0 0 1 0 0 3
+EndChar
+StartChar: oslash.sc
+Encoding: 1114220 -1 1114220
+Width: 1233
+Flags: W
+AnchorPoint: "below" 616 0 basechar 0
+AnchorPoint: "above" 616 1092 basechar 0
+LayerCount: 2
+Fore
+Refer: 248 248 N 1 0 0 1 0 0 3
+EndChar
+StartChar: dcroat.sc
+Encoding: 1114222 -1 1114222
+Width: 1199
+Flags: W
+AnchorPoint: "below" 560 0 basechar 0
+AnchorPoint: "above" 560 1092 basechar 0
+LayerCount: 2
+Fore
+Refer: 7430 7430 N 1 0 0 1 0 0 3
+EndChar
+StartChar: lslash.sc
+Encoding: 1114224 -1 1114224
+Width: 1112
+Flags: W
+AnchorPoint: "below" 575 0 basechar 0
+AnchorPoint: "above" 366 1092 basechar 0
+LayerCount: 2
+Fore
+Refer: 7436 7436 N 1 0 0 1 0 0 3
+EndChar
+StartChar: oe.sc
+Encoding: 1114227 -1 1114227
+Width: 1618
+Flags: W
+LayerCount: 2
+Fore
+Refer: 630 630 N 1 0 0 1 0 0 3
 EndChar
 EndChars
 EndSplineFont
