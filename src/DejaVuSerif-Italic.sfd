@@ -38,6 +38,7 @@ HheadDescent: -483
 HheadDOffset: 0
 OS2Vendor: 'PfEd'
 Lookup: 1 8 0 "'smcp' Lowercase to Small Capitals"  {"'smcp' Lowercase to Small Capitals" ("sc" ) } ['smcp' ('DFLT' <'dflt' > 'cyrl' <'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'ESP ' 'GAG ' 'GAL ' 'ISM ' 'KAZ ' 'KRK ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 2 8 0 "'smcp' Lowercase to Small Capitals for pre-composed letters"  {"'smcp' Lowercase to Small Capitals for pre-composed letters"  } ['smcp' ('DFLT' <'dflt' > 'cyrl' <'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'ESP ' 'GAG ' 'GAL ' 'ISM ' 'KAZ ' 'KRK ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 6 0 0 "'ccmp' Contextual Chaining Substitution"  {"'ccmp' Contextual Chaining Substitution"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'GAG ' 'ISM ' 'KAZ ' 'KRK ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 1 0 0 "'locl' Localized Forms in Cyrillic - Serbian"  {"'locl' Localized Forms in Cyrillic - Serbian"  } ['locl' ('cyrl' <'MKD ' 'SRB ' > ) ]
 Lookup: 1 0 0 "'locl' Localized Forms in Latin - Sami"  {"'locl' Localized Forms in Latin - Sami"  } ['locl' ('latn' <'ISM ' 'KSM ' 'LSM ' 'NSM ' 'SKS ' 'SSM ' > ) ]
@@ -7804,34 +7805,34 @@ StartChar: c
 Encoding: 99 99 99
 Width: 1147
 Flags: W
-AnchorPoint: "below" 514.631 10 basechar 0
+AnchorPoint: "below" 513 0 basechar 0
 AnchorPoint: "above" 724 1092 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-1011.69 319 m 1,0,1
- 939.65 149 939.65 149 811.35 60 c 128,-1,2
- 683.05 -29 683.05 -29 507.05 -29 c 0,3,4
- 275.05 -29 275.05 -29 163.89 124.5 c 0,5,6
- 86.91 230.79 86.91 230.79 86.91 385.26 c 0,7,8
- 86.91 453.88 86.91 453.88 102.1 532 c 0,9,10
- 151.66 787 151.66 787 322.31 939.5 c 128,-1,11
- 492.95 1092 492.95 1092 724.95 1092 c 0,12,13
- 825.95 1092 825.95 1092 921.38 1068.5 c 128,-1,14
- 1016.81 1045 1016.81 1045 1108.48 997 c 1,15,-1
- 1055.61 725 l 1,16,-1
- 948.61 725 l 1,17,18
- 949.21 738.55 949.21 738.55 949.21 751.38 c 0,19,20
- 949.21 871.19 949.21 871.19 896.77 929 c 0,21,22
- 838.71 993 838.71 993 707.71 993 c 0,23,24
- 558.71 993 558.71 993 460.26 877.5 c 128,-1,25
- 361.8 762 361.8 762 317.1 532 c 0,26,27
- 296.63 426.7 296.63 426.7 296.63 345.3 c 0,28,29
- 296.63 248.89 296.63 248.89 325.34 186 c 0,30,31
- 378.29 70 378.29 70 528.29 70 c 0,32,33
- 647.29 70 647.29 70 730.34 132 c 128,-1,34
- 813.4 194 813.4 194 863.69 319 c 1,35,-1
- 1011.69 319 l 1,0,1
+1012 319 m 1,0,1
+ 940 149 940 149 811.5 60 c 128,-1,2
+ 683 -29 683 -29 507 -29 c 0,3,4
+ 275 -30 275 -30 164 124 c 0,5,6
+ 87 230 87 230 87 385 c 0,7,8
+ 87 454 87 454 102 532 c 0,9,10
+ 152 787 152 787 322.5 939.5 c 128,-1,11
+ 493 1092 493 1092 725 1092 c 0,12,13
+ 826 1092 826 1092 921.5 1068.5 c 128,-1,14
+ 1017 1045 1017 1045 1108 997 c 1,15,-1
+ 1056 725 l 1,16,-1
+ 949 725 l 1,17,18
+ 950 739 950 739 949 751 c 0,19,20
+ 949 871 949 871 897 929 c 0,21,22
+ 839 993 839 993 708 993 c 0,23,24
+ 559 993 559 993 460.5 877.5 c 128,-1,25
+ 362 762 362 762 317 532 c 0,26,27
+ 297 427 297 427 297 345 c 0,28,29
+ 297 249 297 249 325 186 c 0,30,31
+ 378 70 378 70 528 70 c 0,32,33
+ 647 70 647 70 730 132 c 128,-1,34
+ 813 194 813 194 864 319 c 1,35,-1
+ 1012 319 l 1,0,1
 EndSplineSet
 Substitution2: "'smcp' Lowercase to Small Capitals" c.sc
 EndChar
@@ -11293,6 +11294,7 @@ LayerCount: 2
 Fore
 Refer: 97 97 N 1 0 0 1 0 0 2
 Refer: 168 168 N 1 0 0 1 57 0 2
+MultipleSubs2: "'smcp' Lowercase to Small Capitals for pre-composed letters" a.sc uni0308
 EndChar
 StartChar: aring
 Encoding: 229 229 229
@@ -11537,6 +11539,7 @@ LayerCount: 2
 Fore
 Refer: 111 111 N 1 0 0 1 0 0 2
 Refer: 168 168 N 1 0 0 1 104 0 2
+MultipleSubs2: "'smcp' Lowercase to Small Capitals for pre-composed letters" o.sc uni0308
 EndChar
 StartChar: divide
 Encoding: 247 247 247
@@ -11652,6 +11655,7 @@ LayerCount: 2
 Fore
 Refer: 117 117 N 1 0 0 1 0 0 2
 Refer: 168 168 N 1 0 0 1 72 0 2
+MultipleSubs2: "'smcp' Lowercase to Small Capitals for pre-composed letters" u.sc uni0308
 EndChar
 StartChar: yacute
 Encoding: 253 253 253
@@ -18890,7 +18894,7 @@ Encoding: 610 610 610
 Width: 1187
 Flags: W
 AnchorPoint: "above" 725 1092 basechar 0
-AnchorPoint: "below" 515 10 basechar 0
+AnchorPoint: "below" 513 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -18898,25 +18902,25 @@ SplineSet
  965 865 965 865 907 929 c 128,-1,2
  849 993 849 993 708 993 c 0,3,4
  559 993 559 993 460.5 877.5 c 128,-1,5
- 362 762 362 762 317 532 c 0,6,7
- 272 302 272 302 325 186 c 128,-1,8
- 378 70 378 70 528 70 c 0,9,10
- 626 70 626 70 689 84.5 c 128,-1,11
- 752 99 752 99 804 140 c 1,12,-1
- 853 391 l 1,13,-1
- 656 391 l 1,14,-1
- 676 497 l 1,15,-1
- 1057 497 l 1,16,-1
- 981 105 l 1,17,18
- 885 35 885 35 784 3 c 128,-1,19
- 683 -29 683 -29 508 -29 c 0,20,21
- 275 -29 275 -29 164 124.5 c 128,-1,22
- 53 278 53 278 102 532 c 0,23,24
- 152 787 152 787 322.5 939.5 c 128,-1,25
- 493 1092 493 1092 725 1092 c 0,26,27
- 836 1092 836 1092 931.5 1068.5 c 128,-1,28
- 1027 1045 1027 1045 1118 997 c 1,29,-1
- 1066 725 l 1,30,-1
+ 362 762 362 762 317 532 c 128,-1,6
+ 272 302 272 302 325 186 c 128,-1,7
+ 378 70 378 70 528 70 c 0,8,9
+ 626 70 626 70 689 84.5 c 128,-1,10
+ 752 99 752 99 804 140 c 1,11,-1
+ 853 391 l 1,12,-1
+ 656 391 l 1,13,-1
+ 676 497 l 1,14,-1
+ 1057 497 l 1,15,-1
+ 981 105 l 1,16,17
+ 885 35 885 35 784 3 c 128,-1,18
+ 683 -29 683 -29 508 -29 c 0,19,20
+ 275 -29 275 -29 164 124.5 c 128,-1,21
+ 53 278 53 278 102 532 c 0,22,23
+ 152 787 152 787 322.5 939.5 c 128,-1,24
+ 493 1092 493 1092 725 1092 c 0,25,26
+ 836 1092 836 1092 931.5 1068.5 c 128,-1,27
+ 1027 1045 1027 1045 1118 997 c 1,28,-1
+ 1066 725 l 1,29,-1
  959 725 l 1,0,1
 EndSplineSet
 EndChar
@@ -19137,7 +19141,8 @@ StartChar: uni026A
 Encoding: 618 618 618
 Width: 655
 Flags: W
-AnchorPoint: "above" 464 1092 basechar 0
+AnchorPoint: "above" 451 1092 basechar 0
+AnchorPoint: "below" 239 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -20800,6 +20805,8 @@ StartChar: uni0299
 Encoding: 665 665 665
 Width: 1153
 Flags: W
+AnchorPoint: "above" 659 1092 basechar 0
+AnchorPoint: "below" 447 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -20921,6 +20928,8 @@ StartChar: uni029C
 Encoding: 668 668 668
 Width: 1365
 Flags: W
+AnchorPoint: "below" 560 0 basechar 0
+AnchorPoint: "above" 772 1092 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -43330,7 +43339,7 @@ Encoding: 7425 7425 7425
 Width: 1586
 Flags: W
 AnchorPoint: "below" 675 0 basechar 0
-AnchorPoint: "above" 967 1092 basechar 0
+AnchorPoint: "above" 887 1092 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -43475,7 +43484,7 @@ Encoding: 7428 7428 7428
 Width: 1147
 Flags: W
 AnchorPoint: "above" 725 1092 basechar 0
-AnchorPoint: "below" 515 10 basechar 0
+AnchorPoint: "below" 513 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -43854,8 +43863,8 @@ StartChar: uni1D0F
 Encoding: 7439 7439 7439
 Width: 1233
 Flags: W
-AnchorPoint: "above" 616 1092 basechar 0
-AnchorPoint: "below" 616 0 basechar 0
+AnchorPoint: "above" 724 1092 basechar 0
+AnchorPoint: "below" 513 0 basechar 0
 LayerCount: 2
 Fore
 Refer: 111 111 N 1 0 0 1 0 0 3
@@ -97051,8 +97060,8 @@ StartChar: a.sc
 Encoding: 1114181 -1 1114181
 Width: 1157
 Flags: W
-AnchorPoint: "above" 578 1092 basechar 0
-AnchorPoint: "below" 578 0 basechar 0
+AnchorPoint: "above" 687 1092 basechar 0
+AnchorPoint: "below" 475 0 basechar 0
 LayerCount: 2
 Fore
 Refer: 7424 7424 N 1 0 0 1 0 0 3
@@ -97061,16 +97070,18 @@ StartChar: b.sc
 Encoding: 1114182 -1 1114182
 Width: 1153
 Flags: W
+AnchorPoint: "above" 659 1092 basechar 0
+AnchorPoint: "below" 447 0 basechar 0
 LayerCount: 2
 Fore
-Refer: 665 665 N 1 0 0 1 0 0 2
+Refer: 665 665 N 1 0 0 1 0 0 3
 EndChar
 StartChar: c.sc
 Encoding: 1114183 -1 1114183
 Width: 1147
 Flags: W
-AnchorPoint: "above" 616 1092 basechar 0
-AnchorPoint: "below" 616 10 basechar 0
+AnchorPoint: "below" 513 0 basechar 0
+AnchorPoint: "above" 725 1092 basechar 0
 LayerCount: 2
 Fore
 Refer: 7428 7428 N 1 0 0 1 0 0 3
@@ -97079,8 +97090,8 @@ StartChar: d.sc
 Encoding: 1114184 -1 1114184
 Width: 1199
 Flags: W
-AnchorPoint: "above" 560 1092 basechar 0
-AnchorPoint: "below" 560 0 basechar 0
+AnchorPoint: "below" 457 0 basechar 0
+AnchorPoint: "above" 669 1092 basechar 0
 LayerCount: 2
 Fore
 Refer: 7429 7429 N 1 0 0 1 0 0 3
@@ -97089,8 +97100,8 @@ StartChar: e.sc
 Encoding: 1114185 -1 1114185
 Width: 1133
 Flags: W
-AnchorPoint: "above" 550 1092 basechar 0
-AnchorPoint: "below" 550 0 basechar 0
+AnchorPoint: "below" 447 0 basechar 0
+AnchorPoint: "above" 659 1092 basechar 0
 LayerCount: 2
 Fore
 Refer: 7431 7431 N 1 0 0 1 0 0 3
@@ -97099,8 +97110,8 @@ StartChar: f.sc
 Encoding: 1114186 -1 1114186
 Width: 1053
 Flags: W
-AnchorPoint: "above" 572 1043 basechar 0
-AnchorPoint: "below" 572 0 basechar 0
+AnchorPoint: "above" 671 1043 basechar 0
+AnchorPoint: "below" 469 0 basechar 0
 LayerCount: 2
 Fore
 Refer: 42800 42800 N 1 0 0 1 0 0 3
@@ -97109,8 +97120,8 @@ StartChar: g.sc
 Encoding: 1114187 -1 1114187
 Width: 1187
 Flags: W
-AnchorPoint: "below" 616 10 basechar 0
-AnchorPoint: "above" 616 1092 basechar 0
+AnchorPoint: "above" 725 1092 basechar 0
+AnchorPoint: "below" 513 0 basechar 0
 LayerCount: 2
 Fore
 Refer: 610 610 N 1 0 0 1 0 0 3
@@ -97129,8 +97140,8 @@ StartChar: i.sc
 Encoding: 1114189 -1 1114189
 Width: 655
 Flags: W
-AnchorPoint: "below" 342 0 basechar 0
-AnchorPoint: "above" 342 1092 basechar 0
+AnchorPoint: "above" 451 1092 basechar 0
+AnchorPoint: "below" 239 0 basechar 0
 LayerCount: 2
 Fore
 Refer: 618 618 N 1 0 0 1 0 0 3
@@ -97139,18 +97150,18 @@ StartChar: j.sc
 Encoding: 1114190 -1 1114190
 Width: 1021
 Flags: W
-AnchorPoint: "above" 635 1092 basechar 0
-AnchorPoint: "below" 387 0 basechar 0
+AnchorPoint: "below" 287 0 basechar 0
+AnchorPoint: "above" 747 1092 basechar 0
 LayerCount: 2
 Fore
-Refer: 7434 7434 N 1 0 0 1 0 0 2
+Refer: 7434 7434 N 1 0 0 1 0 0 3
 EndChar
 StartChar: k.sc
 Encoding: 1114191 -1 1114191
 Width: 1223
 Flags: W
-AnchorPoint: "below" 648 0 basechar 0
-AnchorPoint: "above" 648 1092 basechar 0
+AnchorPoint: "above" 757 1092 basechar 0
+AnchorPoint: "below" 545 0 basechar 0
 LayerCount: 2
 Fore
 Refer: 7435 7435 N 1 0 0 1 0 0 3
@@ -97159,8 +97170,8 @@ StartChar: l.sc
 Encoding: 1114192 -1 1114192
 Width: 1112
 Flags: W
-AnchorPoint: "below" 575 0 basechar 0
-AnchorPoint: "above" 366 1092 basechar 0
+AnchorPoint: "below" 472 0 basechar 0
+AnchorPoint: "above" 475 1092 basechar 0
 LayerCount: 2
 Fore
 Refer: 671 671 N 1 0 0 1 0 0 3
@@ -97169,8 +97180,8 @@ StartChar: m.sc
 Encoding: 1114193 -1 1114193
 Width: 1593
 Flags: W
-AnchorPoint: "above" 798 1092 basechar 0
-AnchorPoint: "below" 798 0 basechar 0
+AnchorPoint: "below" 695 0 basechar 0
+AnchorPoint: "above" 907 1092 basechar 0
 LayerCount: 2
 Fore
 Refer: 7437 7437 N 1 0 0 1 0 0 3
@@ -97179,8 +97190,8 @@ StartChar: n.sc
 Encoding: 1114194 -1 1114194
 Width: 1323
 Flags: W
-AnchorPoint: "below" 673 0 basechar 0
-AnchorPoint: "above" 673 1092 basechar 0
+AnchorPoint: "below" 573 0 basechar 0
+AnchorPoint: "above" 785 1092 basechar 0
 LayerCount: 2
 Fore
 Refer: 628 628 N 1 0 0 1 0 0 3
@@ -97189,8 +97200,8 @@ StartChar: o.sc
 Encoding: 1114195 -1 1114195
 Width: 1233
 Flags: W
-AnchorPoint: "above" 616 1092 basechar 0
-AnchorPoint: "below" 616 0 basechar 0
+AnchorPoint: "below" 513 0 basechar 0
+AnchorPoint: "above" 724 1092 basechar 0
 LayerCount: 2
 Fore
 Refer: 7439 7439 N 1 0 0 1 0 0 3
@@ -97199,11 +97210,11 @@ StartChar: p.sc
 Encoding: 1114196 -1 1114196
 Width: 1133
 Flags: W
-AnchorPoint: "below" 377 0 basechar 0
-AnchorPoint: "above" 580 1092 basechar 0
+AnchorPoint: "above" 689 1092 basechar 0
+AnchorPoint: "below" 274 0 basechar 0
 LayerCount: 2
 Fore
-Refer: 7448 7448 N 1 0 0 1 0 0 2
+Refer: 7448 7448 N 1 0 0 1 0 0 3
 EndChar
 StartChar: q.sc
 Encoding: 1114197 -1 1114197
@@ -97244,8 +97255,8 @@ StartChar: r.sc
 Encoding: 1114198 -1 1114198
 Width: 1190
 Flags: W
-AnchorPoint: "above" 573 1092 basechar 0
-AnchorPoint: "below" 645 0 basechar 0
+AnchorPoint: "above" 682 1092 basechar 0
+AnchorPoint: "below" 542 0 basechar 0
 LayerCount: 2
 Fore
 Refer: 640 640 N 1 0 0 1 0 0 3
@@ -97254,8 +97265,8 @@ StartChar: s.sc
 Encoding: 1114199 -1 1114199
 Width: 1051
 Flags: W
-AnchorPoint: "below" 526 0 basechar 0
-AnchorPoint: "above" 526 1092 basechar 0
+AnchorPoint: "below" 423 0 basechar 0
+AnchorPoint: "above" 635 1092 basechar 0
 LayerCount: 2
 Fore
 Refer: 42801 42801 N 1 0 0 1 0 0 3
@@ -97264,8 +97275,8 @@ StartChar: t.sc
 Encoding: 1114200 -1 1114200
 Width: 1133
 Flags: W
-AnchorPoint: "above" 569 1092 basechar 0
-AnchorPoint: "below" 569 0 basechar 0
+AnchorPoint: "above" 678 1092 basechar 0
+AnchorPoint: "below" 466 0 basechar 0
 LayerCount: 2
 Fore
 Refer: 7451 7451 N 1 0 0 1 0 0 3
@@ -97274,8 +97285,8 @@ StartChar: u.sc
 Encoding: 1114201 -1 1114201
 Width: 1198
 Flags: W
-AnchorPoint: "above" 620 1092 basechar 0
-AnchorPoint: "below" 620 0 basechar 0
+AnchorPoint: "above" 732 1092 basechar 0
+AnchorPoint: "below" 520 0 basechar 0
 LayerCount: 2
 Fore
 Refer: 7452 7452 N 1 0 0 1 0 0 3
@@ -97284,8 +97295,8 @@ StartChar: v.sc
 Encoding: 1114202 -1 1114202
 Width: 1157
 Flags: W
-AnchorPoint: "above" 578 1092 basechar 0
-AnchorPoint: "below" 578 0 basechar 0
+AnchorPoint: "above" 687 1092 basechar 0
+AnchorPoint: "below" 475 0 basechar 0
 LayerCount: 2
 Fore
 Refer: 7456 7456 N 1 0 0 1 0 0 3
@@ -97294,8 +97305,8 @@ StartChar: w.sc
 Encoding: 1114203 -1 1114203
 Width: 1753
 Flags: W
-AnchorPoint: "below" 879 0 basechar 0
-AnchorPoint: "above" 879 1092 basechar 0
+AnchorPoint: "below" 776 0 basechar 0
+AnchorPoint: "above" 988 1092 basechar 0
 LayerCount: 2
 Fore
 Refer: 7457 7457 N 1 0 0 1 0 0 3
@@ -97344,8 +97355,8 @@ StartChar: y.sc
 Encoding: 1114205 -1 1114205
 Width: 1342
 Flags: W
-AnchorPoint: "above" 685 1092 basechar 0
-AnchorPoint: "below" 685 0 basechar 0
+AnchorPoint: "below" 582 0 basechar 0
+AnchorPoint: "above" 794 1092 basechar 0
 LayerCount: 2
 Fore
 Refer: 655 655 N 1 0 0 1 0 0 3
@@ -97354,61 +97365,62 @@ StartChar: z.sc
 Encoding: 1114206 -1 1114206
 Width: 1079
 Flags: W
-AnchorPoint: "below" 529 0 basechar 0
-AnchorPoint: "above" 529 1092 basechar 0
+AnchorPoint: "below" 426 0 basechar 0
+AnchorPoint: "above" 638 1092 basechar 0
 LayerCount: 2
 Fore
 Refer: 7458 7458 N 1 0 0 1 0 0 3
 EndChar
 StartChar: germandbls.sc
 Encoding: 1114207 -1 1114207
-Width: 1319
+Width: 1236
 Flags: W
-AnchorPoint: "below" 584 0 basechar 0
-AnchorPoint: "above" 816 1092 basechar 0
+AnchorPoint: "below" 501 0 basechar 0
+AnchorPoint: "above" 733 1092 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-1006 295 m 0,0,1
- 1052 532 1052 532 803 532 c 2,2,-1
- 737 532 l 1,3,-1
- 758 638 l 1,4,-1
- 1054 956 l 1,5,-1
- 802 956 l 2,6,7
- 667 956 667 956 576.5 887 c 128,-1,8
- 486 818 486 818 443 601 c 2,9,-1
- 347 106 l 1,10,-1
- 521 106 l 1,11,-1
- 501 0 l 1,12,-1
- -34 0 l 1,13,-1
- -14 106 l 1,14,-1
- 163 106 l 1,15,-1
- 265 628 l 2,16,17
- 309 854 309 854 429 958.5 c 128,-1,18
- 549 1063 549 1063 797 1063 c 2,19,-1
- 1257 1063 l 1,20,-1
- 1236 956 l 1,21,-1
- 937 637 l 1,22,23
- 1077 626 1077 626 1165.5 546.5 c 128,-1,24
- 1254 467 1254 467 1221 295 c 0,25,26
- 1190 137 1190 137 1082 58.5 c 128,-1,27
- 974 -20 974 -20 789 -20 c 0,28,29
- 727 -20 727 -20 659.5 2 c 128,-1,30
- 592 24 592 24 542 59 c 1,31,-1
- 579 251 l 1,32,-1
- 685 251 l 1,33,34
- 669 137 669 137 700.5 108 c 128,-1,35
- 732 79 732 79 807 79 c 0,36,37
- 878 79 878 79 932 136.5 c 128,-1,38
- 986 194 986 194 1006 295 c 0,0,1
+923 295 m 0,0,1
+ 943 398 943 398 913 465 c 128,-1,2
+ 883 532 883 532 720 532 c 2,3,-1
+ 654 532 l 1,4,-1
+ 675 638 l 1,5,-1
+ 971 956 l 1,6,-1
+ 719 956 l 2,7,8
+ 584 956 584 956 493.5 887 c 128,-1,9
+ 403 818 403 818 360 601 c 2,10,-1
+ 264 106 l 1,11,-1
+ 428 106 l 1,12,-1
+ 408 0 l 1,13,-1
+ -107 0 l 1,14,-1
+ -87 106 l 1,15,-1
+ 80 106 l 1,16,-1
+ 182 628 l 2,17,18
+ 226 854 226 854 346 958.5 c 128,-1,19
+ 466 1063 466 1063 714 1063 c 2,20,-1
+ 1174 1063 l 1,21,-1
+ 1153 956 l 1,22,-1
+ 854 637 l 1,23,24
+ 1015 626 1015 626 1092 540 c 128,-1,25
+ 1169 454 1169 454 1138 295 c 0,26,27
+ 1107 137 1107 137 999 58.5 c 128,-1,28
+ 891 -20 891 -20 706 -20 c 0,29,30
+ 644 -20 644 -20 576.5 2 c 128,-1,31
+ 509 24 509 24 459 59 c 1,32,-1
+ 496 251 l 1,33,-1
+ 602 251 l 1,34,35
+ 586 137 586 137 617.5 108 c 128,-1,36
+ 649 79 649 79 724 79 c 0,37,38
+ 795 79 795 79 849 136.5 c 128,-1,39
+ 903 194 903 194 923 295 c 0,0,1
 EndSplineSet
 EndChar
 StartChar: ae.sc
 Encoding: 1114208 -1 1114208
 Width: 1586
 Flags: W
-AnchorPoint: "above" 858 1092 basechar 0
-AnchorPoint: "below" 778 0 basechar 0
+AnchorPoint: "below" 675 0 basechar 0
+AnchorPoint: "above" 887 1092 basechar 0
 LayerCount: 2
 Fore
 Refer: 7425 7425 N 1 0 0 1 0 0 3
@@ -97417,8 +97429,8 @@ StartChar: eth.sc
 Encoding: 1114209 -1 1114209
 Width: 1199
 Flags: W
-AnchorPoint: "above" 560 1092 basechar 0
-AnchorPoint: "below" 560 0 basechar 0
+AnchorPoint: "above" 669 1092 basechar 0
+AnchorPoint: "below" 457 0 basechar 0
 LayerCount: 2
 Fore
 Refer: 7430 7430 N 1 0 0 1 0 0 3
@@ -97427,8 +97439,8 @@ StartChar: oslash.sc
 Encoding: 1114210 -1 1114210
 Width: 1233
 Flags: W
-AnchorPoint: "below" 616 0 basechar 0
-AnchorPoint: "above" 616 1092 basechar 0
+AnchorPoint: "above" 724 1092 basechar 0
+AnchorPoint: "below" 513 0 basechar 0
 LayerCount: 2
 Fore
 Refer: 248 248 N 1 0 0 1 0 0 3
@@ -97476,8 +97488,8 @@ StartChar: dcroat.sc
 Encoding: 1114212 -1 1114212
 Width: 1199
 Flags: W
-AnchorPoint: "below" 560 0 basechar 0
-AnchorPoint: "above" 560 1092 basechar 0
+AnchorPoint: "above" 669 1092 basechar 0
+AnchorPoint: "below" 457 0 basechar 0
 LayerCount: 2
 Fore
 Refer: 7430 7430 N 1 0 0 1 0 0 3
@@ -97539,8 +97551,8 @@ StartChar: lslash.sc
 Encoding: 1114214 -1 1114214
 Width: 1112
 Flags: W
-AnchorPoint: "below" 575 0 basechar 0
-AnchorPoint: "above" 366 1092 basechar 0
+AnchorPoint: "below" 472 0 basechar 0
+AnchorPoint: "above" 475 1092 basechar 0
 LayerCount: 2
 Fore
 Refer: 7436 7436 N 1 0 0 1 0 0 3
