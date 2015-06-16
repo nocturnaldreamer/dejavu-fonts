@@ -1953,7 +1953,7 @@ NameList: AGL without afii
 AntiAlias: 1
 FitToEm: 1
 AnchorClass2: "above"  "'mark' Mark Positioning" "below"  "'mark' Mark Positioning" "above-mark"  "'mkmk' Mark to Mark" 
-BeginChars: 1114210 0
+BeginChars: 1114220 0
 StartChar: .notdef
 Encoding: 0 -1 0
 Width: 1229
@@ -108075,7 +108075,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: a.sc
-Encoding: 1114173 -1 1114173
+Encoding: 1114183 -1 1114183
 Width: 1313
 Flags: W
 AnchorPoint: "above" 707 1092 basechar 0
@@ -108085,7 +108085,7 @@ Fore
 Refer: 7424 7424 N 1 0 0 1 0 0 3
 EndChar
 StartChar: b.sc
-Encoding: 1114174 -1 1114174
+Encoding: 1114184 -1 1114184
 Width: 1423
 Flags: W
 AnchorPoint: "above" 654 1092 basechar 0
@@ -108095,7 +108095,7 @@ Fore
 Refer: 665 665 N 1 0 0 1 0 0 3
 EndChar
 StartChar: c.sc
-Encoding: 1114175 -1 1114175
+Encoding: 1114185 -1 1114185
 Width: 1247
 Flags: W
 AnchorPoint: "above" 664 1092 basechar 0
@@ -108105,7 +108105,7 @@ Fore
 Refer: 7428 7428 N 1 0 0 1 0 0 3
 EndChar
 StartChar: d.sc
-Encoding: 1114176 -1 1114176
+Encoding: 1114186 -1 1114186
 Width: 1382
 Flags: W
 AnchorPoint: "above" 684 1092 basechar 0
@@ -108115,7 +108115,7 @@ Fore
 Refer: 7429 7429 N 1 0 0 1 0 0 3
 EndChar
 StartChar: e.sc
-Encoding: 1114177 -1 1114177
+Encoding: 1114187 -1 1114187
 Width: 1263
 Flags: W
 AnchorPoint: "above" 632 1092 basechar 0
@@ -108125,7 +108125,7 @@ Fore
 Refer: 7431 7431 N 1 0 0 1 0 0 3
 EndChar
 StartChar: f.sc
-Encoding: 1114178 -1 1114178
+Encoding: 1114188 -1 1114188
 Width: 1213
 Flags: W
 AnchorPoint: "above" 632 1092 basechar 0
@@ -108135,7 +108135,7 @@ Fore
 Refer: 42800 42800 N 1 0 0 1 0 0 3
 EndChar
 StartChar: g.sc
-Encoding: 1114179 -1 1114179
+Encoding: 1114189 -1 1114189
 Width: 1307
 Flags: W
 AnchorPoint: "above" 664 1092 basechar 0
@@ -108145,7 +108145,7 @@ Fore
 Refer: 610 610 N 1 0 0 1 0 0 3
 EndChar
 StartChar: h.sc
-Encoding: 1114180 -1 1114180
+Encoding: 1114190 -1 1114190
 Width: 1499
 Flags: W
 AnchorPoint: "above" 749 1092 basechar 0
@@ -108155,7 +108155,7 @@ Fore
 Refer: 668 668 N 1 0 0 1 0 0 3
 EndChar
 StartChar: i.sc
-Encoding: 1114181 -1 1114181
+Encoding: 1114191 -1 1114191
 Width: 778
 Flags: W
 AnchorPoint: "above" 404 1092 basechar 0
@@ -108165,7 +108165,7 @@ Fore
 Refer: 618 618 N 1 0 0 1 0 0 3
 EndChar
 StartChar: j.sc
-Encoding: 1114182 -1 1114182
+Encoding: 1114192 -1 1114192
 Width: 1149
 Flags: W
 AnchorPoint: "above" 673 1092 basechar 0
@@ -108175,7 +108175,7 @@ Fore
 Refer: 7434 7434 N 1 0 0 1 0 0 3
 EndChar
 StartChar: k.sc
-Encoding: 1114183 -1 1114183
+Encoding: 1114193 -1 1114193
 Width: 1479
 Flags: W
 AnchorPoint: "above" 781 1092 basechar 0
@@ -108185,7 +108185,7 @@ Fore
 Refer: 7435 7435 N 1 0 0 1 0 0 3
 EndChar
 StartChar: l.sc
-Encoding: 1114184 -1 1114184
+Encoding: 1114194 -1 1114194
 Width: 1264
 Flags: W
 AnchorPoint: "below" 763 0 basechar 0
@@ -108195,7 +108195,7 @@ Fore
 Refer: 671 671 N 1 0 0 1 0 0 3
 EndChar
 StartChar: m.sc
-Encoding: 1114185 -1 1114185
+Encoding: 1114195 -1 1114195
 Width: 1779
 Flags: W
 AnchorPoint: "above" 880 1092 basechar 0
@@ -108205,7 +108205,7 @@ Fore
 Refer: 7437 7437 N 1 0 0 1 0 0 3
 EndChar
 StartChar: n.sc
-Encoding: 1114186 -1 1114186
+Encoding: 1114196 -1 1114196
 Width: 1459
 Flags: W
 AnchorPoint: "below" 755 0 basechar 0
@@ -108215,7 +108215,7 @@ Fore
 Refer: 628 628 N 1 0 0 1 0 0 3
 EndChar
 StartChar: o.sc
-Encoding: 1114187 -1 1114187
+Encoding: 1114197 -1 1114197
 Width: 1366
 Flags: W
 AnchorPoint: "below" 684 0 basechar 0
@@ -108225,7 +108225,7 @@ Fore
 Refer: 7439 7439 N 1 0 0 1 0 0 3
 EndChar
 StartChar: p.sc
-Encoding: 1114188 -1 1114188
+Encoding: 1114198 -1 1114198
 Width: 1201
 Flags: W
 AnchorPoint: "above" 604 1092 basechar 0
@@ -108235,7 +108235,7 @@ Fore
 Refer: 7448 7448 N 1 0 0 1 0 0 3
 EndChar
 StartChar: q.sc
-Encoding: 1114189 -1 1114189
+Encoding: 1114199 -1 1114199
 Width: 1366
 Flags: W
 AnchorPoint: "above" 684 1092 basechar 0
@@ -108271,7 +108271,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: r.sc
-Encoding: 1114190 -1 1114190
+Encoding: 1114200 -1 1114200
 Width: 1422
 Flags: W
 AnchorPoint: "below" 763 0 basechar 0
@@ -108281,7 +108281,7 @@ Fore
 Refer: 640 640 N 1 0 0 1 0 0 3
 EndChar
 StartChar: s.sc
-Encoding: 1114191 -1 1114191
+Encoding: 1114201 -1 1114201
 Width: 1153
 Flags: W
 AnchorPoint: "below" 578 0 basechar 0
@@ -108291,7 +108291,7 @@ Fore
 Refer: 42801 42801 N 1 0 0 1 0 0 3
 EndChar
 StartChar: t.sc
-Encoding: 1114192 -1 1114192
+Encoding: 1114202 -1 1114202
 Width: 1269
 Flags: W
 AnchorPoint: "below" 621 0 basechar 0
@@ -108301,7 +108301,7 @@ Fore
 Refer: 7451 7451 N 1 0 0 1 0 0 3
 EndChar
 StartChar: u.sc
-Encoding: 1114193 -1 1114193
+Encoding: 1114203 -1 1114203
 Width: 1326
 Flags: W
 AnchorPoint: "below" 710 0 basechar 0
@@ -108311,7 +108311,7 @@ Fore
 Refer: 7452 7452 N 1 0 0 1 0 0 3
 EndChar
 StartChar: v.sc
-Encoding: 1114194 -1 1114194
+Encoding: 1114204 -1 1114204
 Width: 1190
 Flags: W
 AnchorPoint: "below" 606 0 basechar 0
@@ -108321,7 +108321,7 @@ Fore
 Refer: 7456 7456 N 1 0 0 1 0 0 3
 EndChar
 StartChar: w.sc
-Encoding: 1114195 -1 1114195
+Encoding: 1114205 -1 1114205
 Width: 1763
 Flags: W
 AnchorPoint: "below" 893 0 basechar 0
@@ -108331,7 +108331,7 @@ Fore
 Refer: 7457 7457 N 1 0 0 1 0 0 3
 EndChar
 StartChar: x.sc
-Encoding: 1114196 -1 1114196
+Encoding: 1114206 -1 1114206
 Width: 1221
 Flags: W
 AnchorPoint: "above" 606 1092 basechar 0
@@ -108341,7 +108341,7 @@ Fore
 Refer: 120 120 N 1 0 0 1 0 0 3
 EndChar
 StartChar: y.sc
-Encoding: 1114197 -1 1114197
+Encoding: 1114207 -1 1114207
 Width: 1488
 Flags: W
 AnchorPoint: "below" 765 0 basechar 0
@@ -108351,7 +108351,7 @@ Fore
 Refer: 655 655 N 1 0 0 1 0 0 3
 EndChar
 StartChar: z.sc
-Encoding: 1114198 -1 1114198
+Encoding: 1114208 -1 1114208
 Width: 1163
 Flags: W
 AnchorPoint: "below" 582 0 basechar 0
@@ -108361,7 +108361,7 @@ Fore
 Refer: 7458 7458 N 1 0 0 1 0 0 3
 EndChar
 StartChar: germandbls.sc
-Encoding: 1114199 -1 1114199
+Encoding: 1114209 -1 1114209
 Width: 1618
 Flags: W
 AnchorPoint: "above" 825 1092 basechar 0
@@ -108405,7 +108405,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: ae.sc
-Encoding: 1114200 -1 1114200
+Encoding: 1114210 -1 1114210
 Width: 1826
 Flags: W
 AnchorPoint: "below" 975 0 basechar 0
@@ -108415,7 +108415,7 @@ Fore
 Refer: 7425 7425 N 1 0 0 1 0 0 3
 EndChar
 StartChar: eth.sc
-Encoding: 1114201 -1 1114201
+Encoding: 1114211 -1 1114211
 Width: 1382
 Flags: W
 AnchorPoint: "below" 684 0 basechar 0
@@ -108425,7 +108425,7 @@ Fore
 Refer: 7430 7430 N 1 0 0 1 0 0 3
 EndChar
 StartChar: oslash.sc
-Encoding: 1114202 -1 1114202
+Encoding: 1114212 -1 1114212
 Width: 1366
 Flags: W
 AnchorPoint: "above" 684 1092 basechar 0
@@ -108435,7 +108435,7 @@ Fore
 Refer: 248 248 N 1 0 0 1 0 0 3
 EndChar
 StartChar: thorn.sc
-Encoding: 1114203 -1 1114203
+Encoding: 1114213 -1 1114213
 Width: 1201
 Flags: W
 AnchorPoint: "below" 399 0 basechar 0
@@ -108474,7 +108474,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: dcroat.sc
-Encoding: 1114204 -1 1114204
+Encoding: 1114214 -1 1114214
 Width: 1382
 Flags: W
 AnchorPoint: "below" 684 0 basechar 0
@@ -108484,7 +108484,7 @@ Fore
 Refer: 7430 7430 N 1 0 0 1 0 0 3
 EndChar
 StartChar: hbar.sc
-Encoding: 1114205 -1 1114205
+Encoding: 1114215 -1 1114215
 Width: 1499
 Flags: W
 AnchorPoint: "below" 749 0 basechar 0
@@ -108537,7 +108537,7 @@ SplineSet
 EndSplineSet
 EndChar
 StartChar: lslash.sc
-Encoding: 1114206 -1 1114206
+Encoding: 1114216 -1 1114216
 Width: 1264
 Flags: W
 AnchorPoint: "below" 763 0 basechar 0
@@ -108547,7 +108547,7 @@ Fore
 Refer: 7436 7436 N 1 0 0 1 0 0 3
 EndChar
 StartChar: oe.sc
-Encoding: 1114209 -1 1114209
+Encoding: 1114219 -1 1114219
 Width: 2173
 Flags: W
 AnchorPoint: "below" 1224 0 basechar 0
